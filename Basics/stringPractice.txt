@@ -18,4 +18,4 @@ Write a method that takes a number and returns a string of that number in Englis
 
 
 
-Additional prectice: https://www.codewars.com/kata/search/?tags=Strings
+Additional practice: https://www.codewars.com/kata/search/?tags=Strings
