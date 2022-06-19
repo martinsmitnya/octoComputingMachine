@@ -1,0 +1,21 @@
+Write a function wich takes and input string (eg.: payload:string) and returns it in reverse.
+
+Write a function that takes in one input string and returns it with '-' between ALL (inclluding special characters like: @, -, &, _, :, [sapce], /,) characters.
+
+Write a function wich takes in an input called 'name', and returns the name + the number of CAPITAL letters and normal letters separetly, NOT counting special characters.
+
+Write a function that takes in ONE input string, called: "name" and returns a string in which firstname is swapped with last name.
+
+Write a function that takes in TWO parameters, a string and a number and returns the string input with CAPITALIZED letters at every location determined by the number. (So if the input is "apples" and 3 the result is: "apPleS").
+
+Write a function takes in an input string, with only small letters of the english alphabet and returns it in ASCII binary. (Help for ASCII binary table: https://www.rapidtables.com/code/text/ascii-table.html)
+
+Write a function that takes in a long string input and sanitizes it from numbers(Roman numberals count as letters) and special characters, except [space], or ',' or '.' or '!' or '?'.
+    Example input string: "Lo4rem Ipsum{} is simply dummy4 text5 \of the printing and typesetting industry. Lore4m9 Ipsum\ has been t8he industr4y7's standard dummy$ text ever s44ince the XVI century,2 wh4en an 1unknown \pri0nt$er took a 2ga4lley of9 type and sc7rambled i2t to 8make a2 type 576sp$ecim2en book. 345It5 has surviv4ed\ not only f4ive c8e6ntur$ie66s, but a76lso the leap into el7ectronic ty6\78pes$etting, remainin8g essenti7ally unchanged. It was popular9ised in the sixties with the re8le\ase of Let5raset sheets containing Lo9rem Ipsum passag7es, and \more re7cent$ly with desk4top publishing soft\ware like Aldus 3PageMaker includi$ng5 versio4ns of Lorem Ipsu$m."
+
+
+Write a method that takes a number and returns a string of that number in English. (eg.: 456 -> four hundred fifty six).
+
+
+
+Additional prectice: https://www.codewars.com/kata/search/?tags=Strings
